@@ -16,3 +16,13 @@ Builds the situation string (weather + setting + surface).
 ## main.py
 
 Colab-oriented flow: mount Drive, upload txts, write rag_corpus.txt, call setup_rag / rag_query.
+
+
+## How to Run
+
+- Install files in one folder
+- Open terminal in project folder
+- Install packages through terminal - "py -m pip install gradio chromadb openai langchain-text-splitters tiktoken"
+- Set the open api key - "$env:OPENAI_API_KEY='THE OPENAI API KEY HERE'"
+- Set the corpus path to the file location - "$env:RAG_CORPUS_PATH='c:\ ...'"
+- Run the app - "py app.py"
