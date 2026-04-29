@@ -1,0 +1,1597 @@
+Athlete A001: age 24, Female, 195 cm, 99 kg, position Center.
+Training: intensity 2, 13 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 1 rest day between events.
+Scores: fatigue 1, performance 99, team contribution 58, load balance 100, ACL risk 4.
+Injury recorded: no.
+
+---
+
+Athlete A002: age 21, Male, 192 cm, 65 kg, position Forward.
+Training: intensity 8, 14 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 1 rest day between events.
+Scores: fatigue 4, performance 55, team contribution 63, load balance 83, ACL risk 73.
+Injury recorded: no.
+
+---
+
+Athlete A003: age 22, Male, 163 cm, 83 kg, position Guard.
+Training: intensity 8, 8 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 6, performance 58, team contribution 62, load balance 100, ACL risk 62.
+Injury recorded: no.
+
+---
+
+Athlete A004: age 24, Female, 192 cm, 90 kg, position Guard.
+Training: intensity 1, 13 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 7, performance 82, team contribution 74, load balance 78, ACL risk 51.
+Injury recorded: no.
+
+---
+
+Athlete A005: age 20, Female, 173 cm, 79 kg, position Center.
+Training: intensity 3, 9 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 2, performance 90, team contribution 51, load balance 83, ACL risk 49.
+Injury recorded: no.
+
+---
+
+Athlete A006: age 22, Female, 180 cm, 75 kg, position Guard.
+Training: intensity 9, 14 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 6, performance 74, team contribution 84, load balance 99, ACL risk 54.
+Injury recorded: no.
+
+---
+
+Athlete A007: age 22, Female, 179 cm, 90 kg, position Forward.
+Training: intensity 5, 13 hours per week, 1 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 7, performance 97, team contribution 56, load balance 78, ACL risk 84.
+Injury recorded: yes.
+
+---
+
+Athlete A008: age 24, Female, 167 cm, 64 kg, position Center.
+Training: intensity 6, 7 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 62, team contribution 70, load balance 100, ACL risk 42.
+Injury recorded: no.
+
+---
+
+Athlete A009: age 19, Female, 166 cm, 91 kg, position Guard.
+Training: intensity 4, 19 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 58, team contribution 67, load balance 80, ACL risk 50.
+Injury recorded: no.
+
+---
+
+Athlete A010: age 20, Female, 162 cm, 63 kg, position Center.
+Training: intensity 2, 8 hours per week, 3 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 7, performance 62, team contribution 52, load balance 100, ACL risk 35.
+Injury recorded: no.
+
+---
+
+Athlete A011: age 24, Female, 176 cm, 78 kg, position Guard.
+Training: intensity 8, 13 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 3 rest days between events.
+Scores: fatigue 1, performance 80, team contribution 91, load balance 84, ACL risk 35.
+Injury recorded: no.
+
+---
+
+Athlete A012: age 20, Male, 192 cm, 89 kg, position Guard.
+Training: intensity 6, 14 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 8, performance 90, team contribution 88, load balance 95, ACL risk 57.
+Injury recorded: no.
+
+---
+
+Athlete A013: age 20, Female, 171 cm, 89 kg, position Guard.
+Training: intensity 5, 15 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 3, performance 60, team contribution 90, load balance 89, ACL risk 55.
+Injury recorded: no.
+
+---
+
+Athlete A014: age 22, Female, 181 cm, 90 kg, position Forward.
+Training: intensity 9, 10 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 6, performance 53, team contribution 98, load balance 87, ACL risk 72.
+Injury recorded: no.
+
+---
+
+Athlete A015: age 21, Male, 181 cm, 72 kg, position Forward.
+Training: intensity 1, 6 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 9, performance 83, team contribution 60, load balance 88, ACL risk 74.
+Injury recorded: no.
+
+---
+
+Athlete A016: age 20, Female, 189 cm, 93 kg, position Center.
+Training: intensity 5, 11 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 6, performance 87, team contribution 88, load balance 98, ACL risk 47.
+Injury recorded: no.
+
+---
+
+Athlete A017: age 23, Male, 197 cm, 86 kg, position Guard.
+Training: intensity 6, 6 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 3 rest days between events.
+Scores: fatigue 9, performance 95, team contribution 73, load balance 100, ACL risk 61.
+Injury recorded: no.
+
+---
+
+Athlete A018: age 22, Male, 197 cm, 78 kg, position Guard.
+Training: intensity 5, 15 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 7, performance 53, team contribution 95, load balance 81, ACL risk 75.
+Injury recorded: no.
+
+---
+
+Athlete A019: age 19, Female, 167 cm, 77 kg, position Forward.
+Training: intensity 6, 6 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 3 rest days between events.
+Scores: fatigue 9, performance 87, team contribution 68, load balance 100, ACL risk 60.
+Injury recorded: no.
+
+---
+
+Athlete A020: age 21, Male, 186 cm, 86 kg, position Guard.
+Training: intensity 6, 15 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 2, performance 68, team contribution 53, load balance 98, ACL risk 26.
+Injury recorded: no.
+
+---
+
+Athlete A021: age 23, Male, 186 cm, 91 kg, position Forward.
+Training: intensity 7, 5 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 8, performance 55, team contribution 75, load balance 100, ACL risk 53.
+Injury recorded: no.
+
+---
+
+Athlete A022: age 23, Male, 193 cm, 66 kg, position Guard.
+Training: intensity 4, 15 hours per week, 1 recovery days per week.
+Competition: 4 matches per week, 3 rest days between events.
+Scores: fatigue 8, performance 83, team contribution 87, load balance 72, ACL risk 71.
+Injury recorded: no.
+
+---
+
+Athlete A023: age 19, Male, 180 cm, 67 kg, position Center.
+Training: intensity 8, 15 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 2, performance 67, team contribution 91, load balance 80, ACL risk 69.
+Injury recorded: no.
+
+---
+
+Athlete A024: age 21, Female, 189 cm, 77 kg, position Guard.
+Training: intensity 7, 16 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 4, performance 62, team contribution 81, load balance 70, ACL risk 81.
+Injury recorded: yes.
+
+---
+
+Athlete A025: age 22, Male, 192 cm, 79 kg, position Guard.
+Training: intensity 9, 15 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 7, performance 90, team contribution 88, load balance 93, ACL risk 65.
+Injury recorded: no.
+
+---
+
+Athlete A026: age 18, Female, 187 cm, 89 kg, position Forward.
+Training: intensity 7, 7 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 3 rest days between events.
+Scores: fatigue 4, performance 72, team contribution 94, load balance 100, ACL risk 29.
+Injury recorded: no.
+
+---
+
+Athlete A027: age 21, Male, 192 cm, 95 kg, position Guard.
+Training: intensity 3, 10 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 4, performance 68, team contribution 95, load balance 83, ACL risk 47.
+Injury recorded: no.
+
+---
+
+Athlete A028: age 19, Male, 164 cm, 84 kg, position Guard.
+Training: intensity 3, 12 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 6, performance 94, team contribution 85, load balance 82, ACL risk 67.
+Injury recorded: no.
+
+---
+
+Athlete A029: age 23, Male, 178 cm, 71 kg, position Forward.
+Training: intensity 8, 13 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 6, performance 60, team contribution 89, load balance 93, ACL risk 50.
+Injury recorded: no.
+
+---
+
+Athlete A030: age 22, Male, 163 cm, 74 kg, position Center.
+Training: intensity 5, 11 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 1 rest day between events.
+Scores: fatigue 3, performance 50, team contribution 86, load balance 94, ACL risk 44.
+Injury recorded: no.
+
+---
+
+Athlete A031: age 21, Female, 194 cm, 79 kg, position Center.
+Training: intensity 4, 8 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 9, performance 73, team contribution 82, load balance 100, ACL risk 62.
+Injury recorded: no.
+
+---
+
+Athlete A032: age 18, Female, 176 cm, 76 kg, position Forward.
+Training: intensity 8, 10 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 56, team contribution 85, load balance 100, ACL risk 35.
+Injury recorded: no.
+
+---
+
+Athlete A033: age 18, Male, 187 cm, 67 kg, position Forward.
+Training: intensity 6, 9 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 6, performance 74, team contribution 52, load balance 93, ACL risk 46.
+Injury recorded: no.
+
+---
+
+Athlete A034: age 20, Male, 189 cm, 73 kg, position Forward.
+Training: intensity 2, 12 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 7, performance 70, team contribution 58, load balance 100, ACL risk 35.
+Injury recorded: no.
+
+---
+
+Athlete A035: age 20, Female, 188 cm, 90 kg, position Forward.
+Training: intensity 4, 5 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 9, performance 64, team contribution 57, load balance 100, ACL risk 44.
+Injury recorded: no.
+
+---
+
+Athlete A036: age 24, Male, 165 cm, 66 kg, position Forward.
+Training: intensity 4, 5 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 3, performance 50, team contribution 82, load balance 96, ACL risk 43.
+Injury recorded: no.
+
+---
+
+Athlete A037: age 19, Male, 194 cm, 95 kg, position Center.
+Training: intensity 6, 17 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 3, performance 61, team contribution 55, load balance 100, ACL risk 43.
+Injury recorded: no.
+
+---
+
+Athlete A038: age 21, Male, 196 cm, 73 kg, position Center.
+Training: intensity 6, 19 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 7, performance 56, team contribution 90, load balance 75, ACL risk 74.
+Injury recorded: no.
+
+---
+
+Athlete A039: age 21, Female, 183 cm, 66 kg, position Forward.
+Training: intensity 1, 15 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 4, performance 64, team contribution 88, load balance 100, ACL risk 30.
+Injury recorded: no.
+
+---
+
+Athlete A040: age 24, Female, 188 cm, 63 kg, position Guard.
+Training: intensity 8, 10 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 3 rest days between events.
+Scores: fatigue 8, performance 70, team contribution 53, load balance 91, ACL risk 77.
+Injury recorded: no.
+
+---
+
+Athlete A041: age 23, Female, 190 cm, 61 kg, position Forward.
+Training: intensity 6, 14 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 7, performance 68, team contribution 62, load balance 92, ACL risk 67.
+Injury recorded: no.
+
+---
+
+Athlete A042: age 23, Male, 194 cm, 82 kg, position Guard.
+Training: intensity 3, 16 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 5, performance 78, team contribution 98, load balance 91, ACL risk 48.
+Injury recorded: no.
+
+---
+
+Athlete A043: age 24, Male, 192 cm, 68 kg, position Forward.
+Training: intensity 9, 6 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 3 rest days between events.
+Scores: fatigue 7, performance 74, team contribution 51, load balance 100, ACL risk 49.
+Injury recorded: no.
+
+---
+
+Athlete A044: age 23, Female, 180 cm, 85 kg, position Forward.
+Training: intensity 2, 9 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 3, performance 82, team contribution 54, load balance 93, ACL risk 36.
+Injury recorded: no.
+
+---
+
+Athlete A045: age 20, Female, 191 cm, 73 kg, position Center.
+Training: intensity 8, 5 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 98, team contribution 93, load balance 90, ACL risk 56.
+Injury recorded: no.
+
+---
+
+Athlete A046: age 21, Female, 182 cm, 70 kg, position Guard.
+Training: intensity 3, 11 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 6, performance 81, team contribution 76, load balance 100, ACL risk 42.
+Injury recorded: no.
+
+---
+
+Athlete A047: age 24, Female, 192 cm, 59 kg, position Guard.
+Training: intensity 5, 5 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 98, team contribution 81, load balance 100, ACL risk 28.
+Injury recorded: no.
+
+---
+
+Athlete A048: age 21, Male, 162 cm, 89 kg, position Center.
+Training: intensity 6, 8 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 3, performance 84, team contribution 70, load balance 100, ACL risk 45.
+Injury recorded: no.
+
+---
+
+Athlete A049: age 18, Female, 177 cm, 66 kg, position Center.
+Training: intensity 6, 13 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 6, performance 93, team contribution 57, load balance 80, ACL risk 66.
+Injury recorded: no.
+
+---
+
+Athlete A050: age 20, Male, 184 cm, 79 kg, position Center.
+Training: intensity 4, 5 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 5, performance 87, team contribution 87, load balance 100, ACL risk 33.
+Injury recorded: no.
+
+---
+
+Athlete A051: age 22, Female, 190 cm, 75 kg, position Center.
+Training: intensity 3, 8 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 8, performance 75, team contribution 57, load balance 92, ACL risk 46.
+Injury recorded: no.
+
+---
+
+Athlete A052: age 20, Male, 162 cm, 90 kg, position Guard.
+Training: intensity 4, 10 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 9, performance 60, team contribution 99, load balance 97, ACL risk 70.
+Injury recorded: no.
+
+---
+
+Athlete A053: age 24, Female, 199 cm, 77 kg, position Guard.
+Training: intensity 1, 10 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 3, performance 84, team contribution 52, load balance 100, ACL risk 33.
+Injury recorded: no.
+
+---
+
+Athlete A054: age 22, Female, 183 cm, 70 kg, position Forward.
+Training: intensity 4, 16 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 3, performance 57, team contribution 93, load balance 89, ACL risk 52.
+Injury recorded: no.
+
+---
+
+Athlete A055: age 18, Female, 191 cm, 93 kg, position Forward.
+Training: intensity 1, 19 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 3, performance 95, team contribution 52, load balance 79, ACL risk 36.
+Injury recorded: no.
+
+---
+
+Athlete A056: age 24, Female, 181 cm, 99 kg, position Center.
+Training: intensity 1, 17 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 6, performance 63, team contribution 71, load balance 91, ACL risk 45.
+Injury recorded: no.
+
+---
+
+Athlete A057: age 19, Male, 182 cm, 96 kg, position Center.
+Training: intensity 6, 12 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 1, performance 59, team contribution 55, load balance 100, ACL risk 29.
+Injury recorded: no.
+
+---
+
+Athlete A058: age 21, Female, 161 cm, 93 kg, position Center.
+Training: intensity 5, 5 hours per week, 1 recovery days per week.
+Competition: 4 matches per week, 3 rest days between events.
+Scores: fatigue 7, performance 51, team contribution 51, load balance 100, ACL risk 47.
+Injury recorded: no.
+
+---
+
+Athlete A059: age 18, Male, 186 cm, 68 kg, position Forward.
+Training: intensity 4, 11 hours per week, 3 recovery days per week.
+Competition: 3 matches per week, 1 rest day between events.
+Scores: fatigue 1, performance 95, team contribution 72, load balance 100, ACL risk 28.
+Injury recorded: no.
+
+---
+
+Athlete A060: age 21, Male, 161 cm, 85 kg, position Forward.
+Training: intensity 3, 5 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 5, performance 58, team contribution 93, load balance 100, ACL risk 20.
+Injury recorded: no.
+
+---
+
+Athlete A061: age 23, Male, 185 cm, 59 kg, position Forward.
+Training: intensity 1, 17 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 8, performance 52, team contribution 51, load balance 99, ACL risk 44.
+Injury recorded: no.
+
+---
+
+Athlete A062: age 19, Male, 176 cm, 89 kg, position Forward.
+Training: intensity 6, 18 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 4, performance 70, team contribution 87, load balance 81, ACL risk 52.
+Injury recorded: no.
+
+---
+
+Athlete A063: age 19, Female, 199 cm, 77 kg, position Forward.
+Training: intensity 2, 11 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 5, performance 75, team contribution 66, load balance 91, ACL risk 39.
+Injury recorded: no.
+
+---
+
+Athlete A064: age 18, Male, 192 cm, 83 kg, position Forward.
+Training: intensity 8, 7 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 1 rest day between events.
+Scores: fatigue 4, performance 57, team contribution 84, load balance 96, ACL risk 53.
+Injury recorded: no.
+
+---
+
+Athlete A065: age 19, Male, 168 cm, 97 kg, position Forward.
+Training: intensity 5, 15 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 4, performance 97, team contribution 83, load balance 100, ACL risk 40.
+Injury recorded: no.
+
+---
+
+Athlete A066: age 22, Male, 198 cm, 65 kg, position Center.
+Training: intensity 7, 12 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 8, performance 51, team contribution 72, load balance 100, ACL risk 60.
+Injury recorded: no.
+
+---
+
+Athlete A067: age 19, Female, 188 cm, 72 kg, position Center.
+Training: intensity 2, 7 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 55, team contribution 79, load balance 98, ACL risk 12.
+Injury recorded: no.
+
+---
+
+Athlete A068: age 21, Female, 185 cm, 66 kg, position Center.
+Training: intensity 8, 18 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 1, performance 77, team contribution 57, load balance 94, ACL risk 30.
+Injury recorded: no.
+
+---
+
+Athlete A069: age 21, Female, 194 cm, 63 kg, position Center.
+Training: intensity 2, 18 hours per week, 3 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 3, performance 78, team contribution 71, load balance 98, ACL risk 16.
+Injury recorded: no.
+
+---
+
+Athlete A070: age 24, Female, 184 cm, 64 kg, position Forward.
+Training: intensity 4, 17 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 9, performance 75, team contribution 93, load balance 97, ACL risk 68.
+Injury recorded: no.
+
+---
+
+Athlete A071: age 21, Male, 183 cm, 98 kg, position Guard.
+Training: intensity 1, 5 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 3 rest days between events.
+Scores: fatigue 4, performance 74, team contribution 85, load balance 100, ACL risk 37.
+Injury recorded: no.
+
+---
+
+Athlete A072: age 24, Male, 172 cm, 71 kg, position Forward.
+Training: intensity 5, 17 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 1 rest day between events.
+Scores: fatigue 5, performance 61, team contribution 54, load balance 96, ACL risk 47.
+Injury recorded: no.
+
+---
+
+Athlete A073: age 21, Female, 166 cm, 92 kg, position Guard.
+Training: intensity 9, 17 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 54, team contribution 62, load balance 93, ACL risk 33.
+Injury recorded: no.
+
+---
+
+Athlete A074: age 22, Male, 195 cm, 61 kg, position Center.
+Training: intensity 1, 18 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 4, performance 83, team contribution 78, load balance 93, ACL risk 17.
+Injury recorded: no.
+
+---
+
+Athlete A075: age 24, Male, 179 cm, 67 kg, position Forward.
+Training: intensity 9, 12 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 2, performance 97, team contribution 80, load balance 99, ACL risk 29.
+Injury recorded: no.
+
+---
+
+Athlete A076: age 20, Male, 160 cm, 94 kg, position Center.
+Training: intensity 8, 7 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 86, team contribution 96, load balance 100, ACL risk 22.
+Injury recorded: no.
+
+---
+
+Athlete A077: age 23, Female, 167 cm, 96 kg, position Forward.
+Training: intensity 6, 6 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 1 rest day between events.
+Scores: fatigue 4, performance 64, team contribution 65, load balance 100, ACL risk 25.
+Injury recorded: no.
+
+---
+
+Athlete A078: age 18, Female, 175 cm, 63 kg, position Center.
+Training: intensity 7, 5 hours per week, 1 recovery days per week.
+Competition: 4 matches per week, 3 rest days between events.
+Scores: fatigue 6, performance 93, team contribution 91, load balance 100, ACL risk 60.
+Injury recorded: no.
+
+---
+
+Athlete A079: age 21, Male, 173 cm, 81 kg, position Guard.
+Training: intensity 3, 18 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 7, performance 85, team contribution 79, load balance 84, ACL risk 50.
+Injury recorded: no.
+
+---
+
+Athlete A080: age 19, Female, 171 cm, 56 kg, position Guard.
+Training: intensity 1, 7 hours per week, 3 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 3, performance 64, team contribution 65, load balance 100, ACL risk 32.
+Injury recorded: no.
+
+---
+
+Athlete A081: age 21, Female, 182 cm, 59 kg, position Guard.
+Training: intensity 5, 19 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 3 rest days between events.
+Scores: fatigue 3, performance 92, team contribution 61, load balance 83, ACL risk 58.
+Injury recorded: no.
+
+---
+
+Athlete A082: age 19, Female, 174 cm, 83 kg, position Forward.
+Training: intensity 2, 6 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 3 rest days between events.
+Scores: fatigue 6, performance 97, team contribution 66, load balance 100, ACL risk 50.
+Injury recorded: no.
+
+---
+
+Athlete A083: age 23, Female, 187 cm, 91 kg, position Guard.
+Training: intensity 5, 6 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 3, performance 72, team contribution 65, load balance 100, ACL risk 33.
+Injury recorded: no.
+
+---
+
+Athlete A084: age 23, Female, 193 cm, 92 kg, position Forward.
+Training: intensity 8, 10 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 55, team contribution 61, load balance 94, ACL risk 25.
+Injury recorded: no.
+
+---
+
+Athlete A085: age 23, Male, 161 cm, 73 kg, position Guard.
+Training: intensity 9, 16 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 8, performance 95, team contribution 57, load balance 87, ACL risk 72.
+Injury recorded: no.
+
+---
+
+Athlete A086: age 19, Female, 191 cm, 62 kg, position Guard.
+Training: intensity 2, 5 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 5, performance 99, team contribution 69, load balance 100, ACL risk 37.
+Injury recorded: no.
+
+---
+
+Athlete A087: age 21, Male, 182 cm, 99 kg, position Forward.
+Training: intensity 3, 6 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 1, performance 93, team contribution 52, load balance 100, ACL risk 23.
+Injury recorded: no.
+
+---
+
+Athlete A088: age 23, Male, 181 cm, 55 kg, position Forward.
+Training: intensity 3, 18 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 3, performance 92, team contribution 65, load balance 95, ACL risk 27.
+Injury recorded: no.
+
+---
+
+Athlete A089: age 22, Female, 184 cm, 76 kg, position Guard.
+Training: intensity 1, 10 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 8, performance 94, team contribution 79, load balance 100, ACL risk 32.
+Injury recorded: no.
+
+---
+
+Athlete A090: age 24, Male, 181 cm, 71 kg, position Forward.
+Training: intensity 8, 7 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 4, performance 70, team contribution 94, load balance 100, ACL risk 41.
+Injury recorded: no.
+
+---
+
+Athlete A091: age 19, Male, 181 cm, 61 kg, position Guard.
+Training: intensity 6, 19 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 1 rest day between events.
+Scores: fatigue 7, performance 72, team contribution 72, load balance 91, ACL risk 49.
+Injury recorded: no.
+
+---
+
+Athlete A092: age 19, Male, 165 cm, 79 kg, position Forward.
+Training: intensity 8, 8 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 2, performance 92, team contribution 77, load balance 100, ACL risk 38.
+Injury recorded: no.
+
+---
+
+Athlete A093: age 21, Female, 174 cm, 99 kg, position Center.
+Training: intensity 9, 5 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 7, performance 65, team contribution 89, load balance 90, ACL risk 74.
+Injury recorded: no.
+
+---
+
+Athlete A094: age 19, Female, 196 cm, 58 kg, position Center.
+Training: intensity 5, 12 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 5, performance 96, team contribution 54, load balance 84, ACL risk 53.
+Injury recorded: no.
+
+---
+
+Athlete A095: age 19, Male, 192 cm, 90 kg, position Center.
+Training: intensity 3, 17 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 5, performance 64, team contribution 69, load balance 66, ACL risk 81.
+Injury recorded: yes.
+
+---
+
+Athlete A096: age 23, Female, 167 cm, 60 kg, position Center.
+Training: intensity 5, 11 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 6, performance 74, team contribution 89, load balance 86, ACL risk 55.
+Injury recorded: no.
+
+---
+
+Athlete A097: age 21, Female, 164 cm, 85 kg, position Center.
+Training: intensity 5, 11 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 3 rest days between events.
+Scores: fatigue 9, performance 85, team contribution 93, load balance 78, ACL risk 91.
+Injury recorded: yes.
+
+---
+
+Athlete A098: age 23, Female, 198 cm, 73 kg, position Guard.
+Training: intensity 5, 7 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 6, performance 60, team contribution 50, load balance 87, ACL risk 65.
+Injury recorded: no.
+
+---
+
+Athlete A099: age 24, Female, 163 cm, 98 kg, position Center.
+Training: intensity 3, 14 hours per week, 1 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 8, performance 64, team contribution 79, load balance 77, ACL risk 70.
+Injury recorded: no.
+
+---
+
+Athlete A100: age 24, Male, 165 cm, 93 kg, position Center.
+Training: intensity 4, 14 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 7, performance 53, team contribution 70, load balance 94, ACL risk 41.
+Injury recorded: no.
+
+---
+
+Athlete A101: age 23, Male, 191 cm, 81 kg, position Center.
+Training: intensity 9, 7 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 9, performance 70, team contribution 69, load balance 100, ACL risk 63.
+Injury recorded: no.
+
+---
+
+Athlete A102: age 24, Female, 189 cm, 64 kg, position Center.
+Training: intensity 9, 18 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 4, performance 62, team contribution 55, load balance 84, ACL risk 48.
+Injury recorded: no.
+
+---
+
+Athlete A103: age 21, Female, 194 cm, 80 kg, position Forward.
+Training: intensity 2, 6 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 71, team contribution 71, load balance 100, ACL risk 30.
+Injury recorded: no.
+
+---
+
+Athlete A104: age 18, Male, 199 cm, 73 kg, position Guard.
+Training: intensity 8, 16 hours per week, 3 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 7, performance 68, team contribution 67, load balance 99, ACL risk 57.
+Injury recorded: no.
+
+---
+
+Athlete A105: age 23, Male, 175 cm, 93 kg, position Center.
+Training: intensity 8, 5 hours per week, 3 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 6, performance 83, team contribution 57, load balance 100, ACL risk 56.
+Injury recorded: no.
+
+---
+
+Athlete A106: age 22, Female, 172 cm, 57 kg, position Center.
+Training: intensity 7, 11 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 1, performance 63, team contribution 88, load balance 100, ACL risk 41.
+Injury recorded: no.
+
+---
+
+Athlete A107: age 22, Male, 189 cm, 99 kg, position Center.
+Training: intensity 8, 11 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 9, performance 53, team contribution 81, load balance 78, ACL risk 93.
+Injury recorded: yes.
+
+---
+
+Athlete A108: age 19, Female, 178 cm, 67 kg, position Guard.
+Training: intensity 3, 16 hours per week, 3 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 9, performance 97, team contribution 82, load balance 100, ACL risk 58.
+Injury recorded: no.
+
+---
+
+Athlete A109: age 24, Female, 176 cm, 82 kg, position Forward.
+Training: intensity 6, 6 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 2, performance 95, team contribution 65, load balance 100, ACL risk 38.
+Injury recorded: no.
+
+---
+
+Athlete A110: age 22, Male, 178 cm, 74 kg, position Guard.
+Training: intensity 1, 11 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 3, performance 76, team contribution 61, load balance 95, ACL risk 28.
+Injury recorded: no.
+
+---
+
+Athlete A111: age 19, Male, 187 cm, 82 kg, position Forward.
+Training: intensity 7, 17 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 5, performance 78, team contribution 87, load balance 92, ACL risk 61.
+Injury recorded: no.
+
+---
+
+Athlete A112: age 18, Female, 185 cm, 62 kg, position Center.
+Training: intensity 1, 12 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 5, performance 96, team contribution 83, load balance 100, ACL risk 13.
+Injury recorded: no.
+
+---
+
+Athlete A113: age 21, Female, 196 cm, 95 kg, position Center.
+Training: intensity 9, 5 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 1, performance 77, team contribution 63, load balance 91, ACL risk 42.
+Injury recorded: no.
+
+---
+
+Athlete A114: age 21, Male, 185 cm, 93 kg, position Guard.
+Training: intensity 1, 13 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 8, performance 84, team contribution 85, load balance 100, ACL risk 35.
+Injury recorded: no.
+
+---
+
+Athlete A115: age 21, Female, 182 cm, 55 kg, position Guard.
+Training: intensity 1, 11 hours per week, 3 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 8, performance 57, team contribution 82, load balance 100, ACL risk 28.
+Injury recorded: no.
+
+---
+
+Athlete A116: age 22, Male, 168 cm, 57 kg, position Forward.
+Training: intensity 7, 7 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 4, performance 65, team contribution 72, load balance 90, ACL risk 45.
+Injury recorded: no.
+
+---
+
+Athlete A117: age 18, Female, 171 cm, 67 kg, position Forward.
+Training: intensity 2, 12 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 3 rest days between events.
+Scores: fatigue 7, performance 91, team contribution 99, load balance 86, ACL risk 55.
+Injury recorded: no.
+
+---
+
+Athlete A118: age 22, Male, 160 cm, 82 kg, position Guard.
+Training: intensity 5, 11 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 3, performance 85, team contribution 94, load balance 89, ACL risk 50.
+Injury recorded: no.
+
+---
+
+Athlete A119: age 24, Male, 160 cm, 79 kg, position Forward.
+Training: intensity 8, 15 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 6, performance 79, team contribution 51, load balance 98, ACL risk 59.
+Injury recorded: no.
+
+---
+
+Athlete A120: age 22, Male, 193 cm, 87 kg, position Guard.
+Training: intensity 8, 19 hours per week, 1 recovery days per week.
+Competition: 4 matches per week, 3 rest days between events.
+Scores: fatigue 9, performance 67, team contribution 90, load balance 62, ACL risk 100.
+Injury recorded: yes.
+
+---
+
+Athlete A121: age 18, Female, 191 cm, 92 kg, position Forward.
+Training: intensity 3, 17 hours per week, 3 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 1, performance 51, team contribution 70, load balance 100, ACL risk 19.
+Injury recorded: no.
+
+---
+
+Athlete A122: age 18, Female, 184 cm, 60 kg, position Guard.
+Training: intensity 7, 12 hours per week, 1 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 5, performance 98, team contribution 51, load balance 82, ACL risk 66.
+Injury recorded: no.
+
+---
+
+Athlete A123: age 24, Male, 199 cm, 98 kg, position Guard.
+Training: intensity 3, 10 hours per week, 3 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 4, performance 62, team contribution 76, load balance 100, ACL risk 24.
+Injury recorded: no.
+
+---
+
+Athlete A124: age 18, Female, 160 cm, 99 kg, position Guard.
+Training: intensity 6, 13 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 8, performance 53, team contribution 58, load balance 97, ACL risk 54.
+Injury recorded: no.
+
+---
+
+Athlete A125: age 18, Male, 175 cm, 86 kg, position Forward.
+Training: intensity 6, 19 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 1, performance 75, team contribution 50, load balance 90, ACL risk 18.
+Injury recorded: no.
+
+---
+
+Athlete A126: age 21, Male, 198 cm, 99 kg, position Forward.
+Training: intensity 3, 9 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 9, performance 74, team contribution 60, load balance 100, ACL risk 61.
+Injury recorded: no.
+
+---
+
+Athlete A127: age 24, Female, 164 cm, 75 kg, position Forward.
+Training: intensity 7, 7 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 6, performance 79, team contribution 52, load balance 100, ACL risk 36.
+Injury recorded: no.
+
+---
+
+Athlete A128: age 20, Female, 181 cm, 70 kg, position Guard.
+Training: intensity 3, 7 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 4, performance 60, team contribution 72, load balance 100, ACL risk 41.
+Injury recorded: no.
+
+---
+
+Athlete A129: age 20, Male, 188 cm, 75 kg, position Forward.
+Training: intensity 8, 5 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 9, performance 56, team contribution 75, load balance 100, ACL risk 72.
+Injury recorded: yes.
+
+---
+
+Athlete A130: age 18, Female, 162 cm, 65 kg, position Forward.
+Training: intensity 4, 16 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 5, performance 80, team contribution 53, load balance 69, ACL risk 62.
+Injury recorded: no.
+
+---
+
+Athlete A131: age 20, Female, 171 cm, 91 kg, position Guard.
+Training: intensity 1, 19 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 5, performance 93, team contribution 67, load balance 89, ACL risk 33.
+Injury recorded: no.
+
+---
+
+Athlete A132: age 20, Male, 185 cm, 90 kg, position Center.
+Training: intensity 4, 12 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 3 rest days between events.
+Scores: fatigue 5, performance 59, team contribution 55, load balance 100, ACL risk 47.
+Injury recorded: no.
+
+---
+
+Athlete A133: age 18, Male, 175 cm, 89 kg, position Guard.
+Training: intensity 7, 6 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 1, performance 88, team contribution 84, load balance 89, ACL risk 42.
+Injury recorded: no.
+
+---
+
+Athlete A134: age 20, Female, 196 cm, 73 kg, position Forward.
+Training: intensity 4, 7 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 1, performance 62, team contribution 71, load balance 98, ACL risk 7.
+Injury recorded: no.
+
+---
+
+Athlete A135: age 22, Male, 181 cm, 74 kg, position Guard.
+Training: intensity 6, 12 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 1 rest day between events.
+Scores: fatigue 8, performance 80, team contribution 92, load balance 88, ACL risk 81.
+Injury recorded: yes.
+
+---
+
+Athlete A136: age 19, Male, 188 cm, 72 kg, position Center.
+Training: intensity 9, 18 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 8, performance 56, team contribution 64, load balance 98, ACL risk 77.
+Injury recorded: no.
+
+---
+
+Athlete A137: age 24, Female, 173 cm, 95 kg, position Guard.
+Training: intensity 1, 12 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 6, performance 98, team contribution 71, load balance 100, ACL risk 42.
+Injury recorded: no.
+
+---
+
+Athlete A138: age 19, Male, 187 cm, 68 kg, position Forward.
+Training: intensity 5, 18 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 1 rest day between events.
+Scores: fatigue 4, performance 91, team contribution 86, load balance 93, ACL risk 47.
+Injury recorded: no.
+
+---
+
+Athlete A139: age 18, Male, 164 cm, 69 kg, position Center.
+Training: intensity 7, 15 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 91, team contribution 91, load balance 79, ACL risk 61.
+Injury recorded: no.
+
+---
+
+Athlete A140: age 21, Female, 189 cm, 85 kg, position Forward.
+Training: intensity 1, 8 hours per week, 1 recovery days per week.
+Competition: 4 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 85, team contribution 61, load balance 100, ACL risk 20.
+Injury recorded: no.
+
+---
+
+Athlete A141: age 24, Female, 164 cm, 55 kg, position Center.
+Training: intensity 4, 8 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 9, performance 69, team contribution 96, load balance 100, ACL risk 61.
+Injury recorded: no.
+
+---
+
+Athlete A142: age 18, Male, 171 cm, 57 kg, position Center.
+Training: intensity 6, 9 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 5, performance 53, team contribution 98, load balance 100, ACL risk 31.
+Injury recorded: no.
+
+---
+
+Athlete A143: age 21, Male, 175 cm, 70 kg, position Guard.
+Training: intensity 2, 10 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 4, performance 56, team contribution 91, load balance 100, ACL risk 12.
+Injury recorded: no.
+
+---
+
+Athlete A144: age 19, Female, 185 cm, 77 kg, position Guard.
+Training: intensity 5, 9 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 1, performance 50, team contribution 87, load balance 100, ACL risk 23.
+Injury recorded: no.
+
+---
+
+Athlete A145: age 18, Female, 185 cm, 65 kg, position Forward.
+Training: intensity 1, 18 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 7, performance 93, team contribution 67, load balance 69, ACL risk 79.
+Injury recorded: yes.
+
+---
+
+Athlete A146: age 24, Female, 180 cm, 66 kg, position Guard.
+Training: intensity 6, 19 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 3, performance 94, team contribution 94, load balance 91, ACL risk 41.
+Injury recorded: no.
+
+---
+
+Athlete A147: age 24, Female, 198 cm, 64 kg, position Guard.
+Training: intensity 6, 11 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 6, performance 91, team contribution 84, load balance 100, ACL risk 44.
+Injury recorded: no.
+
+---
+
+Athlete A148: age 23, Male, 195 cm, 86 kg, position Center.
+Training: intensity 4, 6 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 5, performance 96, team contribution 79, load balance 99, ACL risk 48.
+Injury recorded: no.
+
+---
+
+Athlete A149: age 22, Female, 192 cm, 70 kg, position Guard.
+Training: intensity 8, 11 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 5, performance 62, team contribution 73, load balance 95, ACL risk 45.
+Injury recorded: no.
+
+---
+
+Athlete A150: age 20, Female, 189 cm, 62 kg, position Center.
+Training: intensity 4, 14 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 3 rest days between events.
+Scores: fatigue 5, performance 71, team contribution 91, load balance 98, ACL risk 35.
+Injury recorded: no.
+
+---
+
+Athlete A151: age 21, Male, 196 cm, 92 kg, position Center.
+Training: intensity 8, 11 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 1, performance 70, team contribution 79, load balance 100, ACL risk 40.
+Injury recorded: no.
+
+---
+
+Athlete A152: age 23, Female, 182 cm, 66 kg, position Center.
+Training: intensity 8, 5 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 1, performance 71, team contribution 63, load balance 100, ACL risk 18.
+Injury recorded: no.
+
+---
+
+Athlete A153: age 20, Male, 169 cm, 78 kg, position Forward.
+Training: intensity 5, 11 hours per week, 3 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 3, performance 77, team contribution 55, load balance 100, ACL risk 32.
+Injury recorded: no.
+
+---
+
+Athlete A154: age 20, Female, 164 cm, 82 kg, position Forward.
+Training: intensity 4, 9 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 4, performance 58, team contribution 52, load balance 97, ACL risk 42.
+Injury recorded: no.
+
+---
+
+Athlete A155: age 18, Female, 195 cm, 62 kg, position Forward.
+Training: intensity 2, 7 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 5, performance 75, team contribution 65, load balance 100, ACL risk 27.
+Injury recorded: no.
+
+---
+
+Athlete A156: age 20, Female, 193 cm, 82 kg, position Center.
+Training: intensity 3, 17 hours per week, 1 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 2, performance 58, team contribution 56, load balance 71, ACL risk 33.
+Injury recorded: no.
+
+---
+
+Athlete A157: age 22, Male, 190 cm, 90 kg, position Forward.
+Training: intensity 3, 7 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 8, performance 64, team contribution 63, load balance 100, ACL risk 42.
+Injury recorded: no.
+
+---
+
+Athlete A158: age 24, Male, 169 cm, 80 kg, position Forward.
+Training: intensity 4, 8 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 2, performance 59, team contribution 58, load balance 100, ACL risk 9.
+Injury recorded: no.
+
+---
+
+Athlete A159: age 23, Female, 178 cm, 62 kg, position Guard.
+Training: intensity 4, 17 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 9, performance 73, team contribution 64, load balance 100, ACL risk 69.
+Injury recorded: no.
+
+---
+
+Athlete A160: age 20, Male, 191 cm, 82 kg, position Forward.
+Training: intensity 5, 16 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 91, team contribution 70, load balance 94, ACL risk 20.
+Injury recorded: no.
+
+---
+
+Athlete A161: age 18, Male, 160 cm, 82 kg, position Forward.
+Training: intensity 4, 6 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 9, performance 57, team contribution 84, load balance 94, ACL risk 69.
+Injury recorded: no.
+
+---
+
+Athlete A162: age 22, Male, 164 cm, 91 kg, position Center.
+Training: intensity 8, 6 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 7, performance 73, team contribution 51, load balance 100, ACL risk 49.
+Injury recorded: no.
+
+---
+
+Athlete A163: age 19, Male, 163 cm, 95 kg, position Center.
+Training: intensity 6, 5 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 8, performance 65, team contribution 76, load balance 100, ACL risk 52.
+Injury recorded: no.
+
+---
+
+Athlete A164: age 24, Male, 175 cm, 90 kg, position Center.
+Training: intensity 6, 19 hours per week, 2 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 2, performance 98, team contribution 51, load balance 84, ACL risk 36.
+Injury recorded: no.
+
+---
+
+Athlete A165: age 24, Male, 183 cm, 81 kg, position Center.
+Training: intensity 8, 9 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 7, performance 75, team contribution 84, load balance 100, ACL risk 60.
+Injury recorded: no.
+
+---
+
+Athlete A166: age 23, Female, 175 cm, 71 kg, position Center.
+Training: intensity 7, 8 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 3 rest days between events.
+Scores: fatigue 6, performance 76, team contribution 67, load balance 100, ACL risk 49.
+Injury recorded: no.
+
+---
+
+Athlete A167: age 24, Female, 161 cm, 63 kg, position Center.
+Training: intensity 8, 15 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 4, performance 86, team contribution 63, load balance 90, ACL risk 47.
+Injury recorded: no.
+
+---
+
+Athlete A168: age 20, Male, 187 cm, 87 kg, position Forward.
+Training: intensity 2, 14 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 7, performance 53, team contribution 69, load balance 96, ACL risk 43.
+Injury recorded: no.
+
+---
+
+Athlete A169: age 18, Female, 191 cm, 74 kg, position Center.
+Training: intensity 9, 19 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 4, performance 99, team contribution 67, load balance 78, ACL risk 66.
+Injury recorded: no.
+
+---
+
+Athlete A170: age 24, Female, 186 cm, 67 kg, position Center.
+Training: intensity 1, 6 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 2, performance 73, team contribution 59, load balance 100, ACL risk 2.
+Injury recorded: no.
+
+---
+
+Athlete A171: age 24, Female, 179 cm, 82 kg, position Guard.
+Training: intensity 8, 7 hours per week, 1 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 7, performance 68, team contribution 74, load balance 88, ACL risk 70.
+Injury recorded: yes.
+
+---
+
+Athlete A172: age 19, Female, 183 cm, 83 kg, position Forward.
+Training: intensity 4, 11 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 8, performance 85, team contribution 51, load balance 91, ACL risk 76.
+Injury recorded: yes.
+
+---
+
+Athlete A173: age 19, Male, 171 cm, 67 kg, position Forward.
+Training: intensity 4, 11 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 2, performance 88, team contribution 74, load balance 100, ACL risk 9.
+Injury recorded: no.
+
+---
+
+Athlete A174: age 21, Female, 194 cm, 89 kg, position Forward.
+Training: intensity 5, 16 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 5, performance 59, team contribution 82, load balance 100, ACL risk 40.
+Injury recorded: no.
+
+---
+
+Athlete A175: age 22, Female, 192 cm, 60 kg, position Center.
+Training: intensity 8, 8 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 3 rest days between events.
+Scores: fatigue 1, performance 74, team contribution 85, load balance 100, ACL risk 17.
+Injury recorded: no.
+
+---
+
+Athlete A176: age 20, Male, 192 cm, 72 kg, position Center.
+Training: intensity 5, 9 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 7, performance 67, team contribution 80, load balance 100, ACL risk 40.
+Injury recorded: no.
+
+---
+
+Athlete A177: age 24, Male, 196 cm, 59 kg, position Center.
+Training: intensity 8, 9 hours per week, 3 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 8, performance 68, team contribution 63, load balance 100, ACL risk 52.
+Injury recorded: no.
+
+---
+
+Athlete A178: age 24, Female, 171 cm, 79 kg, position Guard.
+Training: intensity 1, 10 hours per week, 1 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 6, performance 85, team contribution 50, load balance 100, ACL risk 31.
+Injury recorded: no.
+
+---
+
+Athlete A179: age 18, Female, 162 cm, 56 kg, position Center.
+Training: intensity 9, 18 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 5, performance 59, team contribution 95, load balance 88, ACL risk 64.
+Injury recorded: no.
+
+---
+
+Athlete A180: age 21, Female, 160 cm, 64 kg, position Guard.
+Training: intensity 6, 13 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 6, performance 82, team contribution 65, load balance 98, ACL risk 43.
+Injury recorded: no.
+
+---
+
+Athlete A181: age 22, Female, 192 cm, 84 kg, position Forward.
+Training: intensity 3, 6 hours per week, 3 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 2, performance 99, team contribution 95, load balance 100, ACL risk 29.
+Injury recorded: no.
+
+---
+
+Athlete A182: age 21, Female, 199 cm, 99 kg, position Center.
+Training: intensity 8, 9 hours per week, 3 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 1, performance 54, team contribution 52, load balance 100, ACL risk 38.
+Injury recorded: no.
+
+---
+
+Athlete A183: age 23, Female, 169 cm, 59 kg, position Guard.
+Training: intensity 9, 16 hours per week, 3 recovery days per week.
+Competition: 3 matches per week, 3 rest days between events.
+Scores: fatigue 7, performance 96, team contribution 84, load balance 100, ACL risk 67.
+Injury recorded: no.
+
+---
+
+Athlete A184: age 22, Male, 188 cm, 87 kg, position Guard.
+Training: intensity 6, 7 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 7, performance 98, team contribution 90, load balance 100, ACL risk 38.
+Injury recorded: no.
+
+---
+
+Athlete A185: age 24, Female, 172 cm, 55 kg, position Center.
+Training: intensity 7, 8 hours per week, 1 recovery days per week.
+Competition: 4 matches per week, 3 rest days between events.
+Scores: fatigue 2, performance 84, team contribution 55, load balance 100, ACL risk 39.
+Injury recorded: no.
+
+---
+
+Athlete A186: age 24, Female, 171 cm, 72 kg, position Forward.
+Training: intensity 1, 14 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 1 rest day between events.
+Scores: fatigue 2, performance 93, team contribution 74, load balance 88, ACL risk 24.
+Injury recorded: no.
+
+---
+
+Athlete A187: age 22, Male, 190 cm, 86 kg, position Forward.
+Training: intensity 5, 10 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 1, performance 83, team contribution 62, load balance 91, ACL risk 44.
+Injury recorded: no.
+
+---
+
+Athlete A188: age 24, Male, 161 cm, 65 kg, position Forward.
+Training: intensity 5, 16 hours per week, 1 recovery days per week.
+Competition: 3 matches per week, 1 rest day between events.
+Scores: fatigue 8, performance 82, team contribution 83, load balance 70, ACL risk 76.
+Injury recorded: yes.
+
+---
+
+Athlete A189: age 20, Male, 194 cm, 75 kg, position Guard.
+Training: intensity 4, 12 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 8, performance 70, team contribution 57, load balance 79, ACL risk 58.
+Injury recorded: no.
+
+---
+
+Athlete A190: age 22, Male, 182 cm, 80 kg, position Guard.
+Training: intensity 6, 5 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 3 rest days between events.
+Scores: fatigue 1, performance 66, team contribution 70, load balance 100, ACL risk 28.
+Injury recorded: no.
+
+---
+
+Athlete A191: age 21, Female, 176 cm, 79 kg, position Guard.
+Training: intensity 7, 14 hours per week, 1 recovery days per week.
+Competition: 1 matches per week, 2 rest days between events.
+Scores: fatigue 8, performance 71, team contribution 83, load balance 74, ACL risk 94.
+Injury recorded: yes.
+
+---
+
+Athlete A192: age 22, Female, 185 cm, 76 kg, position Guard.
+Training: intensity 9, 18 hours per week, 1 recovery days per week.
+Competition: 2 matches per week, 2 rest days between events.
+Scores: fatigue 9, performance 97, team contribution 53, load balance 79, ACL risk 79.
+Injury recorded: yes.
+
+---
+
+Athlete A193: age 24, Female, 167 cm, 81 kg, position Forward.
+Training: intensity 1, 12 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 4, performance 86, team contribution 74, load balance 94, ACL risk 30.
+Injury recorded: no.
+
+---
+
+Athlete A194: age 20, Female, 188 cm, 67 kg, position Center.
+Training: intensity 6, 15 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 2 rest days between events.
+Scores: fatigue 1, performance 64, team contribution 64, load balance 95, ACL risk 40.
+Injury recorded: no.
+
+---
+
+Athlete A195: age 20, Female, 185 cm, 87 kg, position Guard.
+Training: intensity 7, 18 hours per week, 2 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 1, performance 84, team contribution 53, load balance 87, ACL risk 42.
+Injury recorded: no.
+
+---
+
+Athlete A196: age 23, Female, 169 cm, 88 kg, position Guard.
+Training: intensity 3, 11 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 1 rest day between events.
+Scores: fatigue 3, performance 77, team contribution 94, load balance 100, ACL risk 39.
+Injury recorded: no.
+
+---
+
+Athlete A197: age 21, Male, 185 cm, 95 kg, position Forward.
+Training: intensity 8, 5 hours per week, 3 recovery days per week.
+Competition: 4 matches per week, 2 rest days between events.
+Scores: fatigue 5, performance 56, team contribution 61, load balance 100, ACL risk 56.
+Injury recorded: no.
+
+---
+
+Athlete A198: age 19, Female, 193 cm, 89 kg, position Center.
+Training: intensity 5, 6 hours per week, 2 recovery days per week.
+Competition: 1 matches per week, 1 rest day between events.
+Scores: fatigue 5, performance 81, team contribution 81, load balance 100, ACL risk 25.
+Injury recorded: no.
+
+---
+
+Athlete A199: age 19, Male, 166 cm, 55 kg, position Center.
+Training: intensity 9, 7 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 1 rest day between events.
+Scores: fatigue 9, performance 60, team contribution 81, load balance 97, ACL risk 61.
+Injury recorded: no.
+
+---
+
+Athlete A200: age 22, Male, 163 cm, 75 kg, position Forward.
+Training: intensity 5, 5 hours per week, 2 recovery days per week.
+Competition: 3 matches per week, 1 rest day between events.
+Scores: fatigue 2, performance 59, team contribution 77, load balance 100, ACL risk 23.
+Injury recorded: no.
