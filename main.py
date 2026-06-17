@@ -37,11 +37,14 @@ sys.path.insert(0, PROJECT)
 
 #Cell 6
 from rag_pipeline import setup_rag, rag_query
+# Optional (upload situation.py next to rag_pipeline.py):
+# from situation import build_situation
 
 persist_directory = "/content/drive/MyDrive/chroma_db"
 
 setup_rag(api_key, text, persist_directory)
 
 question = "Your question here"
+
 answer = rag_query(question)
 print(answer)

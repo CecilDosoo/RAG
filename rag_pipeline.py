@@ -52,6 +52,14 @@ def _format_conversation_history(conversation_history: list[dict]) -> str:
     return "\n".join(lines)
 
 
+def _situation_has_weather_line(situation: str | None) -> bool:
+    """Weather from `situation.build_situation` is always the first line when a city was set."""
+    if not situation or not situation.strip():
+        return False
+    head = situation.split("\n", 1)[0].strip()
+    return head.startswith("Weather")
+
+
 def rag_query(
     question,
     n_results=5,
@@ -77,10 +85,25 @@ def rag_query(
     hist = conversation_history if conversation_history else []
     hist_block = _format_conversation_history(hist)
     sit_block = (
-        f"User-reported conditions (tailor advice only when consistent with the context; do not invent facts):\n{situation}\n\n"
+        "Situation supplied with the query (trust live weather numbers and condition codes here for present local "
+        "weather; use the knowledge base for training, injury, and sport-science facts):\n"
+        f"{situation}\n\n"
         if situation
         else ""
     )
+
+    wx_style = ""
+    if _situation_has_weather_line(situation):
+        wx_style = (
+            "Formatting: The first line MUST start exactly with "
+            '\"Based on the weather in your location — \"'
+            ' followed by a brief clause that paraphrases only what the weather line above says'
+            ' (temperature, humidity, precipitation, WMO condition text, lookup errors).'
+            ' No other prefix before that sentence. Put a blank line after it, then the rest of the reply.\n'
+            "When recommending workouts, drills, pacing, warmup, layering, hydration, footing, heat/cold policy, "
+            "indoor vs outdoor swaps, thunderstorm avoidance, etc., reconcile the retrieved knowledge-base guidance "
+            "with those present conditions wherever reasonable; flag conflicts or gaps plainly.\n\n"
+        )
 
     if hist_block:
         user_content = (
@@ -88,10 +111,11 @@ def rag_query(
             f"{sit_block}"
             f"Earlier in this conversation (use only to interpret follow-ups; facts must still match the knowledge base):\n"
             f"{hist_block}\n\n"
+            f"{wx_style}"
             f"Current question: {question}"
         )
     else:
-        user_content = f"Context:\n{context}\n\n{sit_block}Question: {question}"
+        user_content = f"Context:\n{context}\n\n{sit_block}{wx_style}Question: {question}"
 
     response = client_openai.chat.completions.create(
         model="gpt-4o-mini",
@@ -99,11 +123,17 @@ def rag_query(
             {
                 "role": "system",
                 "content": (
-                    "Answer ONLY based on the knowledge base context. Do not invent information. "
-                    "You may adapt wording (training, recovery, competition) to the user's conditions when those "
-                    "conditions are compatible with the context. "
-                    "For follow-up questions, you may use the earlier conversation to understand what the user means, "
-                    "but every factual claim must still be supported by the context."
+                    "Ground training, recovery, injury, and sport-science claims in the knowledge base context — "
+                    "do not invent those facts. "
+                    "Separately supplied situation text may include automated live weather (from an API) for the "
+                    "user's location: use those measurements and described conditions for present local weather and to "
+                    "steer practical workout or training-session advice (indoors vs outdoors, pacing, warmup, layering, "
+                    "footing, hydration, heat/cold, lightning). "
+                    "If the user message requires a fixed opening line about that weather, obey it exactly. "
+                    "If weather lookup failed or the situation lacks detail, say so plainly and still ground athletic "
+                    "guidance in the context. "
+                    "For follow-ups, use earlier turns only to interpret the question; sport-science facts still need "
+                    "support in the context."
                 ),
             },
             {"role": "user", "content": user_content},
